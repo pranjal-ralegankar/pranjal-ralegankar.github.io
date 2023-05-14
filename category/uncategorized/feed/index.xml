@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Pranjal Ralegankar</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Personal website</description>
+	<lastBuildDate>Sun, 25 Jul 2021 12:06:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Late decaying 2-component dark matter scenario as an explanation of the AMS-02 positron excess</title>
+		<link>/2021/07/25/late-decaying-2-component-dark-matter-scenario-as-an-explanation-of-the-ams-02-positron-excess/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=late-decaying-2-component-dark-matter-scenario-as-an-explanation-of-the-ams-02-positron-excess</link>
+					<comments>/2021/07/25/late-decaying-2-component-dark-matter-scenario-as-an-explanation-of-the-ams-02-positron-excess/#respond</comments>
+		
+		<dc:creator><![CDATA[pranjal238]]></dc:creator>
+		<pubDate>Sun, 25 Jul 2021 12:06:35 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=212</guid>
+
+					<description><![CDATA[The earth is constantly bombarded with high energy cosmic rays, which is composed of protons, atomic nuclei, electrons, and also a little bit of anti matter like positrons and anti-protons. As these cosmic rays enter the earth, they react with &#8230; <a href="/2021/07/25/late-decaying-2-component-dark-matter-scenario-as-an-explanation-of-the-ams-02-positron-excess/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>The earth is constantly bombarded with high energy cosmic rays, which is composed of protons, atomic nuclei, electrons, and also a little bit of anti matter like positrons and anti-protons. As these cosmic rays enter the earth, they react with particles in the earth&#8217;s atmosphere and produce a shower of other particles. Hence, to analyze the true composition of a cosmic ray, we need to put particle detectors at high altitudes. One such particle detector, called AMS-02, is aboard the International Space Station.</p>
+
+
+
+<p>In 2014, AMS-02 detected an excess of positrons in the cosmic rays than what is expected. Now particle physicists have been kinda hoping for such an excess because a famous dark matter candidate, called WIMP, can cause an excess of positrons in the cosmic rays. This is because the dark matter forms a halo around the Milkyway galaxy, and if the dark matter is WIMPy then two dark matter particles in the halo can annihilate into positrons, among host of other particles. The positrons so produced will then travel to earth and show up as an excess than what is expected.</p>
+
+
+
+<p>The problem is that the annihilation rate of WIMP dark matter is related to the density of dark matter we observe today (for reasons I won&#8217;t go into here), and the annihilation rate required to explain AMS-02 positron excess is orders of magnitude larger than the annihilation rate determined by dark matter density. So in our paper we motivate an extention to WIMP dark matter model that can resolve the above conundrum and also help ameliorate other cosmological tensions like <img decoding="async" src="/wp-content/ql-cache/quicklatex.com-07e866c5a1f6276bc39278eea833929e_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#36;&#92;&#115;&#105;&#103;&#109;&#97;&#95;&#56;&#36;" title="Rendered by QuickLaTeX.com" height="11" width="17" style="vertical-align: -3px;"/> and <img decoding="async" src="/wp-content/ql-cache/quicklatex.com-1560d33ba51dfb0efb1375dbec381f33_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#36;&#72;&#95;&#48;&#36;" title="Rendered by QuickLaTeX.com" height="15" width="20" style="vertical-align: -3px;"/> tensions. In particular, there are two components of dark matter: the first component is the WIMP dark matter whose density is related to annihilations, and the second component is the dark matter whose annihilations produce positron excess. The first component of dark matter is produced in the early universe which then decays into the second component of dark matter.</p>
+
+
+
+<p>My main contributions in this project were in understanding the impact of such a model on the structure of dark matter halos and cosmological tensions like <img decoding="async" src="/wp-content/ql-cache/quicklatex.com-07e866c5a1f6276bc39278eea833929e_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#36;&#92;&#115;&#105;&#103;&#109;&#97;&#95;&#56;&#36;" title="Rendered by QuickLaTeX.com" height="11" width="17" style="vertical-align: -3px;"/> and <img decoding="async" src="/wp-content/ql-cache/quicklatex.com-1560d33ba51dfb0efb1375dbec381f33_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#36;&#72;&#95;&#48;&#36;" title="Rendered by QuickLaTeX.com" height="15" width="20" style="vertical-align: -3px;"/> tensions. Interestingly, we found that the abundance of dark matter halos provided one of the most stringent constraints on our dark matter model. In particular, when the first component dark matter decays into the second component, the second component is emitted with a kick velocity relative to the original component. This kick velocity if large enough can cause dark matter halos to evaporate. Since we observe dark matter halos, the strength of kick velocity is quite limited.</p>
+
+
+
+<p>The main bulk of the work for this project was done by Jatan Buch. If I recall correctly, he started working on this project in 2015, while I joined this project in mid 2016. If I recall correctly, he started working on this project in 2015, while I joined this project in mid 2016. While I had a relatively small role to play in this project, the project played a quite a big role for me as it was my first experience with a research project.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2021/07/25/late-decaying-2-component-dark-matter-scenario-as-an-explanation-of-the-ams-02-positron-excess/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Reheating in two sector cosmology</title>
+		<link>/2020/05/16/two-sector-reheating/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=two-sector-reheating</link>
+		
+		<dc:creator><![CDATA[pranjal238]]></dc:creator>
+		<pubDate>Sat, 16 May 2020 20:43:47 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[For a host of reasons (like explaining the temperature fluctuations in the cosmic microwave background, homogeneity and flatness of universe, etc.) we believe that the universe underwent a period of suuuperrr rapid expansion, called inflation, right after the universe was &#8230; <a href="/2020/05/16/two-sector-reheating/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>For a host of reasons (like explaining the temperature fluctuations in the cosmic microwave background, homogeneity and flatness of universe, etc.) we believe that the universe underwent a period of suuuperrr rapid expansion, called inflation, right after the universe was born. However this period of inflation must end and eventually produce the Standard Model particles (electrons, protons, photons, etc.) we know and love. The simplest way this transition can occur is if the field that causes inflation, called inflaton, decays into Standard Model particles. However, we also know that there is this additional unknown matter out there in the universe which is about 5 times more abundant than Standard Model particles and which seems to avoid any relationship with the Standard Model forces: Strong and Electroweak forces. One can then imagine a natural scenario where this dark matter is part of some hidden sector of particles who might have their own dark forces distinct from the Standard Model forces. If such a hidden sector exists, then the inflaton field should perhaps not choose favourites and have decay channels into both Standard Model particles and hidden sector particles.</p>
+
+
+
+<p>The main goal of this project was to determine how the densities of the two sectors that are populated by inflaton decays depend on the inflaton decay rates into the two sectos. This relation between density and the decay rates is made non-trivial by the fact that the two sectors can interact with each other due to inflaton mediated interactions. Surprisingly, we found a simple relation for this seemingly complex system. When the reheat temperature (the temperature at which inflaton decays) is smaller than the inflaton mass, we find that the density ratio between the two sectors is proportional to the ratio of the inflaton decay rates. In contrast when the reheat temperature is larger than the inflaton mass, the density ratio is found to just depend on the smaller of the inflaton decay rate.</p>
+
+
+
+<p>Above I tried to communicate (incompletely) the motivation and the outcome of this project in &#8220;English&#8221;. However, my main motivation when I accepted this project had little to do with the above motivation. This project was my first project as PhD student and also the first research project where I was the primary author.  So when I heard the buzz words: &#8220;inflation&#8221;, &#8220;hidden sector&#8221;, &#8220;dark forces&#8221;, etc., I was more than excited to work on it.</p>
+
+
+
+<h2>The project&#8217;s journey</h2>
+
+
+
+<p>As mentioned above this was the first project I took up when I started my PhD. I think I started working on this project in my first semester around September 2017. In the spare times away from coursework and teaching, I chipped away at the calculations and managed to finsih all the basic calculations by May 2018. Then during the summer I focussed on getting the first draft ready.</p>
+
+
+
+<p>From the begining I dreaded the writing aspect of the project. The STEM education in India mostly focusses on the calculation aspect and we get very little experience with writing. On top of that I have always been a below average writer as long as I could recall. Hence naturally I felt overwhelmed as I made my first attempt at writing a paper from scratch, which would turn out to be a 50 page behemoth.</p>
+
+
+
+<p>But as I wrote that first draft I realised why writing is such a neccessary part of science. I was adviced that I should explain the calculations and results such that the reader should understand why the final result makes sense without themselves performing the calculations. However, even though I had the solution in front of me I myself didn&#8217;t know why the final result made sense. It was surprising how solving the problem was not sufficient to make me understand it. I also had to interpret the solution such that finally the solution should seem obvious. The interpretation not only made me better understand the system I was solving, but it also allowed me to guess what the solution would look like if I perturbed the system itself!</p>
+
+
+
+<p>To get my figures aligned with the interpretation, I had to go back and make some pretty significant changes to my code. Also I had to clean my code after a year of randomly adding features. This took an additional month. But by the end of the summer 0f 2018 I had the first draft ready and a clean code to produce any new figures I wanted. So naturally, I thought it would take a month or so to get the paper on arxiv.. So naive!</p>
+
+
+
+<p>See I had underestimated how bad my writing was. The feedback of my advisor on that first draft bled with red ink. Also my advisors were busy with other projects and grants so feedback on next iterations was slow to come. In the fall of 2018 I started to work on two other projects to fill the time while I waited for feedback on my next drafts. However, my improvement in the writing was quite slow and ultimately my advisors stepped in to take over the writing. Thus, it was not until the summer of next year, in June 2019, that finally the paper was ready to submit to arxiv.</p>
+
+
+
+<h2>Quantum statistics hooplah in energy transfer rates</h2>
+
+
+
+<p>As it happens more often than not, I found the calculations involved in the project to be much more interesting than the results we finally got. One such calculation was evaluating the energy transfer rate due to inflaton mediated interactions from one sector to the other. The evaluation of this quantity is hard because it involves performing integration over 8 dimensional phase space. However, by assuming a thermal Maxwell-Boltzmann distribution in both sectors, one can perform this calculation analytically and that is how such calculations are typically performed in literature. The problem is that Maxwell-Boltzmann distribution is only valid in the limit particles are non-relativistic. In reality the particles either have a Fermi-Dirac or Bose-Einstein distribution, depending on whether the particles are fermions or bosons. We had decided to perform the energy transfer calculation by taking into account this quantum statistical thermal distribution, for which performing the 8 dimensionl integral is non-trivial. </p>
+
+
+
+<p>Until now all the calculation problems I had tackled were a part of a homework or an exam, and hence I knew they had a solution. This was the first problem I encountered that I did not know was even solvable. Obviously, we had a backup plan to evaluate this energy transfer term numerically if a close form analytical solution was not found. And I did develop the code for the numerical evaluation. However, numerically evaluating the energy transfer term at each time step while solving a coupled differential equation of densities, would have dramatically increased the computation time. </p>
+
+
+
+<p class="has-text-align-left">So now apart from my own curiosity, I had another reason to support spending time in trying to find an analytical result. And luckily I did find an analytical closed form result! More precisely, I found analytical result at a high, mid and low temperature regimes:</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img decoding="async" src="/wp-content/uploads/2021/07/scalar_boson_fit_x_0_5-min-1-1024x729.jpg" alt="" class="wp-image-199" width="441" height="313"/><figcaption>The term that determines energy transfer from sector &#8216;a&#8217; to sector &#8216;b&#8217; as a function of the temperature of sector a, when all particles have Bose-Einstein distribution. I have set the temperature of sector &#8216;b&#8217; to always be half of the temperature of sector &#8216;a&#8217; in the above plot. The dashed lines are from my analytical calculation and the black solid line is numerically evaluated.</figcaption></figure></div>
+
+
+
+<p>Notice how at high temperatures, the energy transfer rate with Bose-Einstein distribution deviates from that calculated using Maxwell-Boltzmann distribution. In particular the high temperature energy transfer term looks like a beast:</p>
+
+
+
+<p><p class="ql-center-displayed-equation" style="line-height: 92px;"><span class="ql-right-eqno"> (1) </span><span class="ql-left-eqno"> &nbsp; </span><img decoding="async" src="/wp-content/ql-cache/quicklatex.com-cb053c6384d0e74aea5b66ff6040664e_l3.png" height="92" width="559" class="ql-img-displayed-equation quicklatex-auto-format" alt="&#92;&#98;&#101;&#103;&#105;&#110;&#123;&#97;&#108;&#105;&#103;&#110;&#42;&#125;&#32;&#123;&#92;&#109;&#97;&#116;&#104;&#99;&#97;&#108;&#123;&#67;&#125;&#125;&#95;&#123;&#92;&#116;&#101;&#120;&#116;&#114;&#109;&#123;&#104;&#105;&#103;&#104;&#45;&#84;&#125;&#125;&#92;&#112;&#114;&#111;&#112;&#116;&#111;&#38;&#92;&#98;&#105;&#103;&#103;&#91;&#92;&#102;&#114;&#97;&#99;&#123;&#52;&#125;&#123;&#51;&#125;&#40;&#49;&#45;&#120;&#41;&#120;&#92;&#108;&#111;&#103;&#94;&#51;&#92;&#66;&#105;&#103;&#40;&#48;&#46;&#50;&#92;&#102;&#114;&#97;&#99;&#123;&#84;&#95;&#97;&#125;&#123;&#77;&#95;&#123;&#92;&#112;&#104;&#105;&#125;&#125;&#92;&#66;&#105;&#103;&#41;&#43;&#89;&#95;&#49;&#40;&#120;&#41;&#92;&#108;&#111;&#103;&#94;&#50;&#92;&#66;&#105;&#103;&#40;&#92;&#102;&#114;&#97;&#99;&#123;&#84;&#95;&#97;&#125;&#123;&#77;&#95;&#123;&#92;&#112;&#104;&#105;&#125;&#125;&#92;&#66;&#105;&#103;&#41;&#43;&#89;&#95;&#50;&#40;&#120;&#41;&#92;&#108;&#111;&#103;&#92;&#66;&#105;&#103;&#40;&#92;&#102;&#114;&#97;&#99;&#123;&#84;&#95;&#97;&#125;&#123;&#77;&#95;&#123;&#92;&#112;&#104;&#105;&#125;&#125;&#92;&#66;&#105;&#103;&#41;&#92;&#92;&#38;&#43;&#89;&#95;&#51;&#40;&#120;&#41;&#92;&#98;&#105;&#103;&#103;&#93;&#44;&#92;&#101;&#110;&#100;&#123;&#97;&#108;&#105;&#103;&#110;&#42;&#125;" title="Rendered by QuickLaTeX.com"/></p></p>
+
+
+
+<p>where <img decoding="async" src="/wp-content/ql-cache/quicklatex.com-78489b4caba31d1db3c62bea681b0d05_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#36;&#120;&#61;&#84;&#95;&#98;&#47;&#84;&#95;&#97;&#36;" title="Rendered by QuickLaTeX.com" height="19" width="69" style="vertical-align: -5px;"/> and <img decoding="async" src="/wp-content/ql-cache/quicklatex.com-ea22a4e4909f6c11b377f14b4e5da051_l3.png" class="ql-img-inline-formula quicklatex-auto-format" alt="&#36;&#89;&#95;&#105;&#36;" title="Rendered by QuickLaTeX.com" height="15" width="18" style="vertical-align: -3px;"/>s are some complicated functions I won&#8217;t show here.  In contrast, the energy transfer term assuming Maxwell-Boltzmann distribution at high temperatures is simply given by</p>
+
+
+
+<p><p class="ql-center-displayed-equation" style="line-height: 42px;"><span class="ql-right-eqno"> (2) </span><span class="ql-left-eqno"> &nbsp; </span><img decoding="async" src="/wp-content/ql-cache/quicklatex.com-313b38b7541a8e4a7ec1333b17618ee0_l3.png" height="42" width="137" class="ql-img-displayed-equation quicklatex-auto-format" alt="&#92;&#98;&#101;&#103;&#105;&#110;&#123;&#97;&#108;&#105;&#103;&#110;&#42;&#125;&#32;&#123;&#92;&#109;&#97;&#116;&#104;&#99;&#97;&#108;&#123;&#67;&#125;&#125;&#95;&#123;&#92;&#116;&#101;&#120;&#116;&#114;&#109;&#123;&#77;&#66;&#125;&#125;&#92;&#112;&#114;&#111;&#112;&#116;&#111;&#38;&#92;&#98;&#105;&#103;&#103;&#91;&#84;&#95;&#97;&#94;&#51;&#45;&#84;&#95;&#98;&#94;&#51;&#92;&#98;&#105;&#103;&#103;&#93;&#46;&#92;&#101;&#110;&#100;&#123;&#97;&#108;&#105;&#103;&#110;&#42;&#125;" title="Rendered by QuickLaTeX.com"/></p></p>
+
+
+
+<p>So one can see that taking into account Bose-Einstein statistics provides a non-trivial logarithmic correction at high temperatures.</p>
+
+
+
+<p>Since just performing calculations with Maxwell-Boltzmann statistics is the norm, I was really excited to find this deviation at high temperatures. I imagined this logarithmic dependence on temperature would manifest in interesting ways in our final result where we show density ratio as a function of inflaton decay rates. </p>
+
+
+
+<p>Alas, unfortunately it turned out that the final density ratio between the two sectors was primarily determined by the energy transfer rate around the temperatures where the energy transfer rate is well approximated by Maxwell-Boltzmann statistics. In other words, had I just performed the whole analysis using Maxwell-Boltzmann distribution and not wasted months finding analytical result for Bose-Einstein (or Fermi-Dirac) distribution, the final answer would have only deviated by 20% to 50%. In cosmology, where we generally deal with orders of magnitude, no one gives a rat&#8217;s eye to 50% correction (a hyperbole of course, but you get the spirit).</p>
+
+
+
+<p>Nonetheless, even if this calculation of energy transfer rate with quantum statistics does not prove to be of use to others, it is of importance to me because that was the first time I had solved a problem whose solution did not exist before.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
